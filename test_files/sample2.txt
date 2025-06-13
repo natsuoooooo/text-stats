@@ -1,0 +1,8 @@
+Hello, World!
+This is a sample text file.
+It contains multiple lines of text.
+
+Some lines have special characters: !@#$%^&*()
+And some lines have numbers: 123 456 789
+
+The last line. 
